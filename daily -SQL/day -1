@@ -54,3 +54,7 @@ select first_name, replace( first_name, 'A','') from actor;
 
 
 
+
+
+
+
