@@ -1,4 +1,4 @@
--- here we have inserted a table :- 
+-- here we have inserted a table :-  
 
 CREATE DATABASE testdb;
 USE testdb;
