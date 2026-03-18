@@ -1,4 +1,4 @@
-# code block of pl/sql
+# code block of pl/sql 
 
 DECLARE
       CURSOR, variable , exception
