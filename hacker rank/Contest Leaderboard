@@ -11,6 +11,6 @@ JOIN (
 ) hs
 ON h.hacker_id = hs.hacker_id
 WHERE hs.total_score > 0
-ORDER BY hs.total_score DESC, h.hacker_id ASC;
+ORDER BY hs.total_score DESC, h.hacker_id ASC ;
 
 
