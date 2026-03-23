@@ -1,10 +1,10 @@
--- =========================================
+-- ========================================= 
 -- SQL PRACTICE NOTES : WORLD DATABASE
 -- Author : Kushagra Mathuria
 -- Description :This file contains basic SQL 
 -- queries covering SELECT, WHERE, LIKE, string
 -- functions, numeric functions and filtering
--- ========================================= 
+-- =========================================  
 
 -- Use database
 USE world;
