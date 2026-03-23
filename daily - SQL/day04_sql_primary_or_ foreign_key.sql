@@ -1,5 +1,5 @@
 # 🌍 World Database SQL Practice
-
+ 
 -- This repository contains my SQL practice work using the **World database**.  
 -- The focus of this project is to understand **database structure, keys, joins, and data analysis** using real-world country and city data.
 
