@@ -12,4 +12,4 @@ WHERE wp.is_evil = 0
         AND w2.power = w.power
         AND wp2.age = wp.age
   )
-ORDER BY w.power DESC, wp.age DESC;
+ORDER BY w.power DESC, wp.age DESC ;
