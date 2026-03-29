@@ -1,6 +1,6 @@
 -- =========================================
 -- SQL AGGREGATE FUNCTIONS & GROUP BY
--- Database : world
+-- Database : world 
 -- Author   : Kushagra Mathuria
 -- Purpose  : Practice aggregate functions,
 --            GROUP BY and HAVING clause
