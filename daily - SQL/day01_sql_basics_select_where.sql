@@ -1,5 +1,5 @@
 -- ========================================= 
--- SQL PRACTICE NOTES : WORLD DATABASE
+-- SQL PRACTICE NOTES : WORLD DATABASE 
 -- Author : Kushagra Mathuria
 -- Description :This file contains basic SQL 
 -- queries covering SELECT, WHERE, LIKE, string
