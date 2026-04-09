@@ -3,4 +3,4 @@ FROM employee
 WHERE employee.salary < (
 SELECT max(salary)
 FROM employee
-); 
+);
