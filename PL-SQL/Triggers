@@ -1,6 +1,6 @@
 -- Triggrers --> block of code when a event occur automatically
 -- these triggers are stored in the database    
--- example insert, update and delete use dml triggers 
+-- example insert, update and delete use dml triggers  
 
 -- benefit of triggers 
 -- Automation of task 
