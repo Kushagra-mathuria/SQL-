@@ -1,5 +1,5 @@
 SELECT h.hacker_id, h.name, hs.total_score
-FROM Hackers h
+FROM Hackers h 
 JOIN (
     SELECT s.hacker_id, SUM(s.max_score) AS total_score
     FROM (
