@@ -2,7 +2,7 @@
 -- DML 
 -- delete is a DML operation
 
-use regex1; 
+use regex1;
 drop table actor_cp;
 
 create table actor_cp as select first_name
