@@ -6,7 +6,7 @@
 ---
 
 ## 🗄️ Database Used
--- **World Database**
+-- **World Database**  
 
 -- Tables used:
 --  `city`
