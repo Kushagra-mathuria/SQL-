@@ -4,7 +4,7 @@ use sakila;
 -- it is a block of code => code reusable and readable
 -- built-in function and user defined 
 -- pre-defined => scaler functions
--- scaler => applied for each row and result will be given for each row 
+-- scaler => applied for each row and result will be given for each row  
 -- string(character) , number , date related function
 -- string related function (today at 3rd feb)
 
